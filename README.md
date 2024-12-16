@@ -1,5 +1,3 @@
-
-#caducrs
 <div align="center">
 <h1  align="center">DIO BOOTCAMP</h1>
 </div>
